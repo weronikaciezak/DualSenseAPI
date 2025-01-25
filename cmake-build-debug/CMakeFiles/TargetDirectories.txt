@@ -1,0 +1,3 @@
+C:/Users/Werci/CLionProjects/gierka_na_interfejsy/cmake-build-debug/CMakeFiles/gierka_na_interfejsy.dir
+C:/Users/Werci/CLionProjects/gierka_na_interfejsy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Werci/CLionProjects/gierka_na_interfejsy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
