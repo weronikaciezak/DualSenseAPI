@@ -19,8 +19,8 @@ This project demonstrates how to interact with the Sony DualSense controller (Pl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DualSense-HID-Reader.git
-   cd DualSense-HID-Reader
+   git clone https://github.com/weronikaciezak/DualSenseAPI.git
+   cd DualSenseAPI
    ```
 
 2. Open the project in Visual Studio or your preferred IDE.
